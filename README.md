@@ -12,9 +12,7 @@
 假设初始创建模型如下类的表示，则有无穷多的模型公式
 ![eg1](eg1_model.png)
 而线性模型可以视为
-$$
-y=b+\sum_{i=1}^n w_ix_i\\
-x_i:x{cp},x{hp},x{w},x{h}……
+$$y=b+\sum_{i=1}^n w_ix_i\\x_i:x{cp},x{hp},x{w},x{h}……
 $$
 
 #### 2. 样本确立
